@@ -1,0 +1,29 @@
+Python 3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+============ RESTART: C:/Users/arunp/OneDrive/Documents/AI/EXP 12.py ===========
+  |   |  
+-----
+  |   |  
+-----
+  |   |  
+-----
+Player X's turn
+Enter row (0-2): 0
+Enter col (0-2): 0
+X |   |  
+-----
+  |   |  
+-----
+  |   |  
+-----
+Player O's turn
+Enter row (0-2): 1
+Enter col (0-2): 0
+X |   |  
+-----
+O |   |  
+-----
+  |   |  
+-----
+Player X's turn
